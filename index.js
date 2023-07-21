@@ -36,7 +36,7 @@ TYPESCRIPT
 app.use(cors({
     // origin: "https://eriosbooking-production.up.railway.app",
     // origin: "https://eriosbooking-e2oinmw9f-sanketshejul76.vercel.app/?vercelToolbarCode=AdyPpi44BD5CxmB",
-    origin: "https://alive-rose-squirrel.cyclic.app",
+    origin: "https://defiant-baseball-cap-ox.cyclic.app/",
     // origin: "http://localhost:5173",
     credentials: true
 }))
