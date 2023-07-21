@@ -34,7 +34,8 @@ TYPESCRIPT
 
 */
 app.use(cors({
-    origin: "https://eriosbooking-production.up.railway.app",
+    // origin: "https://eriosbooking-production.up.railway.app",
+    origin: "https://eriosbooking.vercel.app",
     // origin: "http://localhost:5173",
     credentials: true
 }))
