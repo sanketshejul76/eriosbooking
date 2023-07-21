@@ -55,6 +55,6 @@ mongoose.connection.once("open", () => {
     })
 })
 mongoose.connection.on("error", err => {
-    console.log("DB CONNECTION ERROR ", err)
+    console.log("DB CONNECTION ERROR shjsh ", err)
 })
 
